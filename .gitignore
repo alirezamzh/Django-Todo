@@ -1,0 +1,6 @@
+# virtualenv
+venv/
+# database
+db.sqlite3
+# vscode
+.vscode/
